@@ -1,0 +1,4 @@
+name: FreeCam
+main: dev.tinchx.freecam.CamPlugin
+version: 1.0-SNAPSHOT
+author: Tinchx

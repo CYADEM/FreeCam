@@ -1,0 +1,5 @@
+DEFAULT-RADIUS: 100
+MAX-RADIUS: 500
+PERMISSION: "root.command.freecam"
+DISABLED-COMMANDS:
+  - "/tp"

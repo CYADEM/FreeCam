@@ -1,0 +1,6 @@
+FORCE-DISABLED: "&cYour freecam was forcefully disabled."
+TELEPORT-CANCELLED: "&cYour teleport request has been cancelled."
+CAM-ENABLED: "&dFree cam mode was turned &aON&d."
+CAM-DISABLED: "&dFree cam mode was turned &cOFF&d."
+RADIUS-REACHED: "&eYou're in the limit of your radius."
+COMMAND-DISABLED: "&cThis command is disabled."
